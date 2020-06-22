@@ -1,21 +1,12 @@
 ### 25/03/2020 update
 
 ### Mandatory set-ups ###
-catchment_path = 'D:/WORK/brook90_improvement/validation_discharge/test_wernersbach/wb.shp'
-time_start = '01/03/2020' # min: 02/01/1979
-time_end = '01/05/2020' # max: current date minus 5-7 days
+catchment_path = 'XXXXX'
+time_start = 'XXXXX' # min: 02/01/1979
+time_end = 'XXXXX' # max: current date minus 5-7 days
 
-cds_user = '28735' # ERA5 user ID
-cds_key = '20901d6e-0f08-4d25-8eac-5d2130197dfb' # ERA5 key (pass)
-cds_user = '33256' # rico
-cds_key = '2cab8392-b91e-4d2f-9809-f3ece1ba74d6' # rico
-cds_user = '33968' # kate
-cds_key = 'c7330c02-6558-4dbb-922f-6fd78ac4bd70' # kate
-cds_user = '41532' # my2
-cds_key = '5546bfb3-e53c-4678-a382-315c5f203536' # my2
-cds_user = '41540' # kate2
-cds_key = '30a814c0-395a-4a7e-9582-624ff3c8f70e' # kate2
-
+cds_user = 'XXXXX' # ERA5 user ID
+cds_key = 'XXXXX' # ERA5 key (pass)
 
 ### Run framework ###
 brook90.framework (catchment_path=catchment_path,
