@@ -5,7 +5,7 @@ Project page https://www.researchgate.net/project/Development-of-R-package-Globa
 
 Main reference - https://doi.org/10.3390/w12072037
 
-The package is running from **Run_framework.R** file. *Pacman* package should be pre-installed.
+The package is running from **Run_framework.R** file. *Pacman* package should be pre-installed. Important remark - keep your libraries up-to-date.
 
 **The package incorporates:**
 - *BROOK90*: physical lumped hydrological model with a special focus on a detailed representation of vertical water fluxes within the soil-water-plant system at a single site
