@@ -4,12 +4,12 @@
 
 **Main reference** - https://doi.org/10.3390/w12072037
 
-**Stable version** - XXX
+**Stable version** - https://github.com/hydrovorobey/Global_BROOK90/releases/tag/1.3
 
-**Last version** (not stable, permanent updates) - XXX
+**Last version** (not stable, permanent updates) - to be released soon
 
 
-**Principal sheme of the framework**
+**Principal sheme of the framework's last version** (differs from stable version)
 ![fig 3](https://user-images.githubusercontent.com/25793656/202659423-caae90de-67bc-420e-8ad6-adf454a8f549.jpg)
 
 
