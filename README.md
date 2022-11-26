@@ -1,6 +1,6 @@
 # Global_BROOK90: **_R-package for automatic modelling of water balance all over the world._** 
 
-**Licence** Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+**Licence** Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
 
 **Project page and up-to-date news** https://www.researchgate.net/project/Development-of-R-package-Global-BROOK90
 
