@@ -8,7 +8,7 @@
 
 **Stable version** - https://github.com/hydrovorobey/Global_BROOK90/releases/tag/1.3
 
-**Last version** (not stable, permanent updates) - to be released soon
+**Forecast version** (could be not stable) - https://github.com/hydrovorobey/Global_BROOK90/releases/tag/v2.0
 
 
 **Principal scheme of the framework's last version** (differs from stable version)
