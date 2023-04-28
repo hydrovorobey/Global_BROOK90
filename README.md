@@ -2,8 +2,6 @@
 
 **Licence** Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
 
-**Project page and up-to-date news** https://www.researchgate.net/project/Development-of-R-package-Global-BROOK90
-
 **Main reference** - https://doi.org/10.3390/w12072037
 
 **Stable version** - https://github.com/hydrovorobey/Global_BROOK90/releases/tag/1.3
@@ -30,6 +28,7 @@
 
 
 *Publications*:
+- Vorobevskii, I., Luong, T.T., Kronenberg, R.: Seasonal forecasting of local-scale soil moisture droughts with Global BROOK90, https://doi.org/10.5194/nhess-2023-9, 2023
 - Vorobevskii, I., Luong, T.T., Kronenberg, R., Grünwald, T., Bernhofer, C.: Modelling evaporation with local, regional and global BROOK90 frameworks: importance of parameterization and forcing. Hydrology and Earth System Sciences, https://doi.org/10.5194/hess‐2021‐602, 2022
 - Vorobevskii, I. and Kronenberg, R.: ‘Drop a catchment and receive model output’: introduction to an open-source R-Package to model the water balance wherever you want, EGU General Assembly, Vienna, Austria (online), https://doi.org/10.5194/egusphere-egu2020-2767, 2020
 - Vorobevskii, I., Kronenberg, R., Bernhofer, C.: Global BROOK90 R Package: An Automatic Framework to Simulate the Water Balance at Any Location, Water, 12, https://doi.org/10.3390/w12072037, 2020
