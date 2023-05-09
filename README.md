@@ -1,5 +1,7 @@
 # Global_BROOK90: **_R-package for automatic modelling of water balance all over the world._** 
 
+[![Github All Releases](https://img.shields.io/github/downloads/hydrovorobey/Global_BROOK90/total.svg)]()
+
 **Licence** Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
 
 **Main reference** - https://doi.org/10.3390/w12072037
@@ -34,5 +36,3 @@
 - Vorobevskii, I., Kronenberg, R., Bernhofer, C.: Global BROOK90 R Package: An Automatic Framework to Simulate the Water Balance at Any Location, Water, 12, https://doi.org/10.3390/w12072037, 2020
 - Vorobevskii, I., Kronenberg, R., Bernhofer, C.: On the runoff validation of ‘Global BROOK90’ automatic modeling framework. Hydrology Research, 52, 1083–1099, https://doi.org/10.2166/nh.2021.150, 2021
 - Vorobevskii, I. and Kronenberg, R.: Global BROOK90: validation, uncertainties, current progress and future outline., EGU General Assembly, Vienna, Austria (online), https://doi.org/10.5194/egusphereegu21-742, 2021
-
-[![Github All Releases](https://img.shields.io/github/downloads/hydrovorobey/Global_BROOK90/total.svg)]()
