@@ -6,7 +6,7 @@
 
 **Main reference** - https://doi.org/10.3390/w12072037
 
-**Stable version** - https://github.com/hydrovorobey/Global_BROOK90/releases/tag/1.3
+**Stable version** - https://github.com/hydrovorobey/Global_BROOK90/releases/tag/v1.4
 
 **Forecast version** (could be not stable) - https://github.com/hydrovorobey/Global_BROOK90/releases/tag/v2.0
 
