@@ -11,20 +11,20 @@
 **Forecast version** (could be not stable) - https://github.com/hydrovorobey/Global_BROOK90/releases/tag/v2.0
 
 
-**Principal scheme of the framework's last version** (differs from stable version)
+**Principal scheme of the 'forecast' version** (differs from stable version)
 ![fig 3](https://user-images.githubusercontent.com/25793656/202659423-caae90de-67bc-420e-8ad6-adf454a8f549.jpg)
 
 
 *The package incorporates:*
-- BROOK90 physical lumped hydrological model with a special focus on a detailed representation of vertical water fluxes within the soil-water-plant system at a single site
-- used global datasets: land cover (Land Cover 100 m), soil characteristics (SoilGrids250), elevation data (Amazon Web Service Terrain Tiles), meteorological forcing (ERA5, MERRA-2, ECMWF seasonal forecast), vegetation characteristics (MODIS LAI, Global Forest Canopy Height)
-- modelling framework for auto download and process initial data, parameterize and run the model, process and save output results
+- BROOK90 physical lumped water balance model with a special focus on a detailed representation of vertical water fluxes within the atmosphere-plant-soil system at a single site
+- Connection to multiply global datasets: land cover (Land Cover 100 m), soil characteristics (SoilGrids250), elevation data (Amazon Web Service Terrain Tiles), meteorological forcing (ERA5, MERRA-2, ECMWF seasonal forecast), vegetation characteristics (MODIS LAI, Global Forest Canopy Height)
+- Automatic framework to download and process initial data, parameterize and run the model, process and save output results
 
 
 *Technical remarks*:
-- package is running from *Run_framework.R* file and does not require installation, *Pacman* package should be pre-installed
-- keep third-party R libraries up-to-date
-- framework is currently working in R-studio only
+- package is running from *Run_framework.R* file and does not require installation (but require build-up procedure in R-studio), only *Pacman* package should be pre-installed (rest libraries will be installed automatically)
+- keep third-party R libraries up-to-date (check_packages_updates parameter of main function)
+- framework is currently working in R-studio only, a web-based application is planned
 - before running the framework User needs to register in [Copernicus CDS](https://cds.climate.copernicus.eu/user/register?destination=%2F%23!%2Fhome), copy UID and API Key from the profile data to the framework input, acceps "Terms of use" in the bottom of [ERA5 download page](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels?tab=form) (needs to be done only once)
 - some issues with third-party R libraries were detected (not solved) when working on MAC and Linux systems
 
