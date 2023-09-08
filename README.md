@@ -9,7 +9,7 @@
 **Reanalysis+Forecast version** - https://github.com/hydrovorobey/Global_BROOK90/releases/tag/v2.1
 
 
-**Principal scheme of the 'forecast' version**
+**Principal scheme of v2.1**
 ![fig 3](https://user-images.githubusercontent.com/25793656/202659423-caae90de-67bc-420e-8ad6-adf454a8f549.jpg)
 
 
