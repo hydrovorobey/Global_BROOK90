@@ -25,6 +25,7 @@
 - framework is currently working in R-studio only, a web-based application is planned
 - before running the framework User needs to register in [Copernicus CDS](https://cds.climate.copernicus.eu/user/register?destination=%2F%23!%2Fhome), copy UID and API Key from the profile data to the framework input, acceps "Terms of use" in the bottom of [ERA5 download page](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels?tab=form) (needs to be done only once)
 - some issues with third-party R libraries were detected (not solved) when working on MAC and Linux systems
+- IMPORTANT! due to retirement of sp, rgdal and other geo-packages (from October 2023) the GBR90 package could be unstable. I am working on transfering the code to sf and terra libraries, but it will take some time.
 
 
 *Publications*:
