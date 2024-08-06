@@ -29,9 +29,9 @@
 
 
 *Publications*:
-- Vorobevskii, I., Luong, T.T., Kronenberg, R.: Seasonal forecasting of local-scale soil moisture droughts with Global BROOK90, https://doi.org/10.5194/nhess-2023-9, 2023
+- Vorobevskii, I., Luong, T.T., Kronenberg, R.: Seasonal forecasting of local-scale soil moisture droughts with Global BROOK90, [https://doi.org/10.5194/nhess-2023-9](https://doi.org/10.5194/nhess-24-681-2024), 2023
 - Vorobevskii, I., Luong, T.T., Kronenberg, R., Grünwald, T., Bernhofer, C.: Modelling evaporation with local, regional and global BROOK90 frameworks: importance of parameterization and forcing. Hydrology and Earth System Sciences, https://doi.org/10.5194/hess-26-3177-2022, 2022
-- Vorobevskii, I. and Kronenberg, R.: ‘Drop a catchment and receive model output’: introduction to an open-source R-Package to model the water balance wherever you want, EGU General Assembly, Vienna, Austria (online), https://doi.org/10.5194/egusphere-egu2020-2767, 2020
-- Vorobevskii, I., Kronenberg, R., Bernhofer, C.: Global BROOK90 R Package: An Automatic Framework to Simulate the Water Balance at Any Location, Water, 12, https://doi.org/10.3390/w12072037, 2020
 - Vorobevskii, I., Kronenberg, R., Bernhofer, C.: On the runoff validation of ‘Global BROOK90’ automatic modeling framework. Hydrology Research, 52, 1083–1099, https://doi.org/10.2166/nh.2021.150, 2021
 - Vorobevskii, I. and Kronenberg, R.: Global BROOK90: validation, uncertainties, current progress and future outline., EGU General Assembly, Vienna, Austria (online), https://doi.org/10.5194/egusphereegu21-742, 2021
+- Vorobevskii, I., Kronenberg, R., Bernhofer, C.: Global BROOK90 R Package: An Automatic Framework to Simulate the Water Balance at Any Location, Water, 12, https://doi.org/10.3390/w12072037, 2020
+- Vorobevskii, I. and Kronenberg, R.: ‘Drop a catchment and receive model output’: introduction to an open-source R-Package to model the water balance wherever you want, EGU General Assembly, Vienna, Austria (online), https://doi.org/10.5194/egusphere-egu2020-2767, 2020
